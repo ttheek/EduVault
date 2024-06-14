@@ -1,0 +1,44 @@
+{
+    "biology": {
+        "lessons": [
+            {"title": "Introduction to Biology", "link": "path/to/lesson1.pdf"},
+            {"title": "Cell Structure and Function", "link": "path/to/lesson2.pdf"}
+        ],
+        "papers": [
+            {"title": "The Human Genome Project", "link": "path/to/paper1.pdf"},
+            {"title": "Photosynthesis Processes", "link": "path/to/paper2.pdf"}
+        ],
+        "exercises": [
+            {"title": "Cell Organelles", "link": "path/to/exercise1.pdf"},
+            {"title": "Genetics Problems", "link": "path/to/exercise2.pdf"}
+        ]
+    },
+    "physics": {
+        "lessons": [
+            {"title": "Introduction to Physics", "link": "path/to/lesson1.pdf"},
+            {"title": "Newton's Laws of Motion", "link": "path/to/lesson2.pdf"}
+        ],
+        "papers": [
+            {"title": "Quantum Mechanics", "link": "path/to/paper1.pdf"},
+            {"title": "Relativity Theory", "link": "path/to/paper2.pdf"}
+        ],
+        "exercises": [
+            {"title": "Kinematics", "link": "path/to/exercise1.pdf"},
+            {"title": "Dynamics", "link": "path/to/exercise2.pdf"}
+        ]
+    },
+    "chemistry": {
+        "lessons": [
+            {"title": "Introduction to Chemistry", "link": "path/to/lesson1.pdf"},
+            {"title": "Periodic Table", "link": "path/to/lesson2.pdf"}
+        ],
+        "papers": [
+            {"title": "Chemical Bonding", "link": "path/to/paper1.pdf"},
+            {"title": "Organic Chemistry", "link": "path/to/paper2.pdf"}
+        ],
+        "exercises": [
+            {"title": "Stoichiometry", "link": "path/to/exercise1.pdf"},
+            {"title": "Acids and Bases", "link": "path/to/exercise2.pdf"}
+        ]
+    }
+}
